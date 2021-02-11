@@ -1,0 +1,26 @@
+{
+  "name": "jp.ac.keio.sfc.sdp",
+  "version": "6.0.0-pre.7",
+  "displayName": "GameCanvas",
+  "description": "GameCanvas for Unity",
+  "unity": "2020.2",
+  "author": {
+    "name": "Smart Device Programing (Seibe Takahashi)",
+    "email": "t@seibe.jp",
+    "url": "https://github.com/sfc-sdp/GameCanvas-Unity"
+  },
+  "dependencies": {
+    "com.unity.collections": "0.15.0-preview.21",
+    "com.unity.inputsystem": "1.0.2",
+    "com.unity.mathematics": "1.2.1",
+    "com.unity.scriptablebuildpipeline": "1.15.2",
+    "com.unity.test-framework.performance": "2.6.0-preview",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.unitywebrequestaudio": "1.0.0",
+    "com.unity.modules.unitywebrequesttexture": "1.0.0",
+    "com.unity.modules.video": "1.0.0"
+  }
+}
